@@ -1,0 +1,307 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Bioinformatics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-07T14:29:34Z",
+            "owner": "danielecook",
+            "repo": "Awesome-Bioinformatics",
+            "stars": 4228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Single-Cell",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-01T00:51:43Z",
+            "owner": "seandavi",
+            "repo": "awesome-single-cell",
+            "stars": 3830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome DeepBio",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-11-07T22:43:41Z",
+            "owner": "gokceneraslan",
+            "repo": "awesome-deepbio",
+            "stars": 1988
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Computational-Neuroscience",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-02T18:19:50Z",
+            "owner": "eselkin",
+            "repo": "awesome-computational-neuroscience",
+            "stars": 984
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Multi-Omics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-04T18:01:58Z",
+            "owner": "mikelove",
+            "repo": "awesome-multi-omics",
+            "stars": 940
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Nextflow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-23T07:41:58Z",
+            "owner": "nextflow-io",
+            "repo": "awesome-nextflow",
+            "stars": 631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Reproducible Research",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T14:39:49Z",
+            "owner": "leipzig",
+            "repo": "awesome-reproducible-research",
+            "stars": 402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Cancer Variant Databases",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-18T09:02:11Z",
+            "owner": "seandavi",
+            "repo": "awesome-cancer-variant-resources",
+            "stars": 337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Synthetic Biology",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-12-15T06:58:15Z",
+            "owner": "websemantics",
+            "repo": "awesome-synthetic-biology",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Biological Image Analysis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-14T14:38:05Z",
+            "owner": "hallvaaw",
+            "repo": "awesome-biological-image-analysis",
+            "stars": 191
+          }
+        }
+      ],
+      "title": "Awesome"
+    },
+    {
+      "description": "Other awesome lists without the awesome branding.",
+      "items": [],
+      "title": "Lists"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "List: Deep Learning in Biology",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-03T16:05:10Z",
+            "owner": "hussius",
+            "repo": "deeplearning-biology",
+            "stars": 2155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "List: Deep Learning Applications in Computational Biology",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-11-07T22:43:41Z",
+            "owner": "gokceneraslan",
+            "repo": "awesome-deepbio",
+            "stars": 1988
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "List: Deep Learning in Computational Biology",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-02-13T15:32:12Z",
+            "owner": "pimentel",
+            "repo": "deep_learning_papers",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "List: Deep Learning in Neuronal Image Analysis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-04-30T18:18:41Z",
+            "owner": "alxndrkalinin",
+            "repo": "awesome-deepneuroimage",
+            "stars": 154
+          }
+        }
+      ],
+      "title": "Deep Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "List: Awesome-Bioinformatics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-07T14:29:34Z",
+            "owner": "danielecook",
+            "repo": "Awesome-Bioinformatics",
+            "stars": 4228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "List: Curated list of papers for Computational Genomics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-11-05T18:49:23Z",
+            "owner": "jtleek",
+            "repo": "genomicspapers",
+            "stars": 505
+          }
+        }
+      ],
+      "title": "Bioinformatics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ResearchKit",
+          "description": ", Framework to create apps for medical research",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2026-07-15T18:56:45Z",
+            "owner": "ResearchKit",
+            "repo": "ResearchKit",
+            "stars": 5745
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bioconda-recipes",
+          "description": ", Conda recipes to install bioinformatics software",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T03:07:21Z",
+            "owner": "bioconda",
+            "repo": "bioconda-recipes",
+            "stars": 1859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PDBREMIX",
+          "description": ", Library to analyze protein structures and protein simulations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-02-26T04:52:48Z",
+            "owner": "boscoh",
+            "repo": "pdbremix",
+            "stars": 61
+          }
+        }
+      ],
+      "title": "Tools"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:12:18.327Z",
+    "original_repository": "raivivek/awesome-biology",
+    "original_repository_sha": "deb849cea4c67bbcd2a4a81c4d014888f357831e",
+    "enhanced_repository": "enhansome/enhansome-biology",
+    "enhanced_repository_description": null,
+    "title": "Awesome Biology with stars"
+  }
+}
