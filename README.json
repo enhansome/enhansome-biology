@@ -272,7 +272,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-13T03:07:21Z",
+            "last_commit": "2026-08-13T05:57:33Z",
             "owner": "bioconda",
             "repo": "bioconda-recipes",
             "stars": 1859
@@ -297,7 +297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:12:18.327Z",
+    "last_updated": "2026-08-13T06:40:27.762Z",
     "original_repository": "raivivek/awesome-biology",
     "original_repository_sha": "deb849cea4c67bbcd2a4a81c4d014888f357831e",
     "enhanced_repository": "enhansome/enhansome-biology",
