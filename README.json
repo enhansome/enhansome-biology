@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23372071,
             "language": null,
             "last_commit": "2026-04-07T14:29:34Z",
             "owner": "danielecook",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62237945,
             "language": null,
             "last_commit": "2026-08-01T00:51:43Z",
             "owner": "seandavi",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50022436,
             "language": null,
             "last_commit": "2021-11-07T22:43:41Z",
             "owner": "gokceneraslan",
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163022594,
             "language": null,
             "last_commit": "2024-08-02T18:19:50Z",
             "owner": "eselkin",
             "repo": "awesome-computational-neuroscience",
-            "stars": 989
+            "stars": 990
           }
         },
         {
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144076744,
             "language": null,
             "last_commit": "2026-08-04T18:01:58Z",
             "owner": "mikelove",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39799927,
             "language": null,
             "last_commit": "2025-06-23T07:41:58Z",
             "owner": "nextflow-io",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110871367,
             "language": "Python",
             "last_commit": "2026-08-14T17:01:33Z",
             "owner": "leipzig",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62807989,
             "language": null,
             "last_commit": "2026-05-18T09:02:11Z",
             "owner": "seandavi",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55878038,
             "language": null,
             "last_commit": "2022-12-15T06:58:15Z",
             "owner": "websemantics",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 472116111,
             "language": null,
             "last_commit": "2026-03-14T14:38:05Z",
             "owner": "hallvaaw",
@@ -147,12 +157,7 @@
       "title": "Awesome"
     },
     {
-      "description": "Other awesome lists without the awesome branding.",
-      "items": [],
-      "title": "Lists"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -161,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60209509,
             "language": null,
             "last_commit": "2026-08-03T16:05:10Z",
             "owner": "hussius",
@@ -175,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50022436,
             "language": null,
             "last_commit": "2021-11-07T22:43:41Z",
             "owner": "gokceneraslan",
@@ -189,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47209291,
             "language": null,
             "last_commit": "2016-02-13T15:32:12Z",
             "owner": "pimentel",
@@ -203,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68620335,
             "language": null,
             "last_commit": "2018-04-30T18:18:41Z",
             "owner": "alxndrkalinin",
@@ -214,7 +223,7 @@
       "title": "Deep Learning"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -223,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23372071,
             "language": null,
             "last_commit": "2026-04-07T14:29:34Z",
             "owner": "danielecook",
@@ -237,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24905212,
             "language": null,
             "last_commit": "2018-11-05T18:49:23Z",
             "owner": "jtleek",
@@ -248,7 +259,7 @@
       "title": "Bioinformatics"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -257,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31979038,
             "language": "Objective-C",
             "last_commit": "2026-07-15T18:56:45Z",
             "owner": "ResearchKit",
@@ -271,8 +283,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42372094,
             "language": "Shell",
-            "last_commit": "2026-08-19T05:21:06Z",
+            "last_commit": "2026-08-19T11:36:00Z",
             "owner": "bioconda",
             "repo": "bioconda-recipes",
             "stars": 1861
@@ -285,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19235974,
             "language": "Python",
             "last_commit": "2018-02-26T04:52:48Z",
             "owner": "boscoh",
@@ -297,8 +311,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:41:04.286Z",
+    "last_updated": "2026-08-19T12:18:07.810Z",
     "original_repository": "raivivek/awesome-biology",
+    "original_repository_id": 24221254,
     "original_repository_sha": "deb849cea4c67bbcd2a4a81c4d014888f357831e",
     "enhanced_repository": "enhansome/enhansome-biology",
     "enhanced_repository_description": null,
