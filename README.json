@@ -15,7 +15,7 @@
             "last_commit": "2026-04-07T14:29:34Z",
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4239
+            "stars": 4242
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-08-02T18:19:50Z",
             "owner": "eselkin",
             "repo": "awesome-computational-neuroscience",
-            "stars": 990
+            "stars": 991
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-14T17:01:33Z",
             "owner": "leipzig",
             "repo": "awesome-reproducible-research",
-            "stars": 401
+            "stars": 402
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-03T16:05:10Z",
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2155
+            "stars": 2156
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-04-07T14:29:34Z",
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4239
+            "stars": 4242
           }
         },
         {
@@ -273,7 +273,7 @@
             "last_commit": "2026-07-15T18:56:45Z",
             "owner": "ResearchKit",
             "repo": "ResearchKit",
-            "stars": 5745
+            "stars": 5746
           }
         },
         {
@@ -285,10 +285,10 @@
             "archived": false,
             "id": 42372094,
             "language": "Shell",
-            "last_commit": "2026-08-19T11:36:00Z",
+            "last_commit": "2026-08-20T05:36:19Z",
             "owner": "bioconda",
             "repo": "bioconda-recipes",
-            "stars": 1861
+            "stars": 1862
           }
         },
         {
@@ -311,7 +311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:18:07.810Z",
+    "last_updated": "2026-08-20T05:41:58.405Z",
     "original_repository": "raivivek/awesome-biology",
     "original_repository_id": 24221254,
     "original_repository_sha": "deb849cea4c67bbcd2a4a81c4d014888f357831e",
