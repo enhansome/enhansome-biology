@@ -15,7 +15,7 @@
             "last_commit": "2026-04-07T14:29:34Z",
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4248
+            "stars": 4250
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 62237945,
             "language": null,
-            "last_commit": "2026-08-01T00:51:43Z",
+            "last_commit": "2026-08-21T19:10:24Z",
             "owner": "seandavi",
             "repo": "awesome-single-cell",
-            "stars": 3836
+            "stars": 3835
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2021-11-07T22:43:41Z",
             "owner": "gokceneraslan",
             "repo": "awesome-deepbio",
-            "stars": 1986
+            "stars": 1987
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-08-02T18:19:50Z",
             "owner": "eselkin",
             "repo": "awesome-computational-neuroscience",
-            "stars": 991
+            "stars": 992
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-03T16:05:10Z",
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2154
+            "stars": 2155
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2021-11-07T22:43:41Z",
             "owner": "gokceneraslan",
             "repo": "awesome-deepbio",
-            "stars": 1986
+            "stars": 1987
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-04-07T14:29:34Z",
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4248
+            "stars": 4250
           }
         },
         {
@@ -285,7 +285,7 @@
             "archived": false,
             "id": 42372094,
             "language": "Shell",
-            "last_commit": "2026-08-21T05:06:47Z",
+            "last_commit": "2026-08-22T05:11:16Z",
             "owner": "bioconda",
             "repo": "bioconda-recipes",
             "stars": 1861
@@ -311,7 +311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T05:44:02.698Z",
+    "last_updated": "2026-08-22T05:37:28.971Z",
     "original_repository": "raivivek/awesome-biology",
     "original_repository_id": 24221254,
     "original_repository_sha": "deb849cea4c67bbcd2a4a81c4d014888f357831e",
