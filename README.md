@@ -48,12 +48,12 @@ For a list of review research articles, see [awesome-reviews](awesome-reviews.md
 ## Awesome
 
 * [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,253 | 🐛 35 | 📅 2026-04-07
-* [Awesome Single-Cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,838 | 🐛 11 | 📅 2026-08-21
+* [Awesome Single-Cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,839 | 🐛 11 | 📅 2026-08-21
 * [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio) ⭐ 1,988 | 🐛 6 | 📅 2021-11-07
 * [Awesome-Computational-Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience) ⭐ 993 | 🐛 7 | 📅 2024-08-02
 * [Awesome Multi-Omics](https://github.com/mikelove/awesome-multi-omics) ⭐ 941 | 🐛 1 | 📅 2026-08-04
 * [Awesome Nextflow](https://github.com/nextflow-io/awesome-nextflow) ⭐ 631 | 🐛 2 | 📅 2025-06-23
-* [Awesome Reproducible Research](https://github.com/leipzig/awesome-reproducible-research) ⭐ 401 | 🐛 27 | 🌐 Python | 📅 2026-08-23
+* [Awesome Reproducible Research](https://github.com/leipzig/awesome-reproducible-research) ⭐ 402 | 🐛 28 | 🌐 Python | 📅 2026-08-23
 * [Awesome Cancer Variant Databases](https://github.com/seandavi/awesome-cancer-variant-databases) ⭐ 337 | 🐛 1 | 📅 2026-05-18
 * [Awesome Synthetic Biology](https://github.com/websemantics/awesome-synthetic-biology) ⭐ 222 | 🐛 2 | 📅 2022-12-15
 * [Awesome Biological Image Analysis](https://github.com/hallvaaw/awesome-biological-image-analysis) ⭐ 192 | 🐛 0 | 📅 2026-03-14
@@ -298,7 +298,7 @@ Other awesome lists without the *awesome* branding.
 ## Tools
 
 * [ResearchKit](https://github.com/ResearchKit/ResearchKit) ⭐ 5,745 | 🐛 150 | 🌐 Objective-C | 📅 2026-07-15, Framework to create apps for medical research
-* [bioconda-recipes](https://github.com/bioconda/bioconda-recipes) ⭐ 1,862 | 🐛 1,244 | 🌐 Shell | 📅 2026-08-24, Conda recipes to install bioinformatics software
+* [bioconda-recipes](https://github.com/bioconda/bioconda-recipes) ⭐ 1,862 | 🐛 1,246 | 🌐 Shell | 📅 2026-08-24, Conda recipes to install bioinformatics software
 * [PDBREMIX](https://github.com/boscoh/pdbremix) ⭐ 61 | 🐛 4 | 🌐 Python | 📅 2018-02-26, Library to analyze protein structures and protein simulations
 * [OMICS Tools](https://omictools.com/), A huge collection of tools
 * [scikit-bio](http://scikit-bio.org), in development Python library for bioinformatics

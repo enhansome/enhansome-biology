@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T19:10:24Z",
             "owner": "seandavi",
             "repo": "awesome-single-cell",
-            "stars": 3838
+            "stars": 3839
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-23T19:27:01Z",
             "owner": "leipzig",
             "repo": "awesome-reproducible-research",
-            "stars": 401
+            "stars": 402
           }
         },
         {
@@ -155,6 +155,55 @@
         }
       ],
       "title": "Awesome"
+    },
+    {
+      "description": "Other awesome lists without the awesome branding.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Biotools by John Didion",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73105904,
+                "language": null,
+                "last_commit": "2026-05-04T13:30:35Z",
+                "owner": "jdidion",
+                "repo": "biotools",
+                "stars": 640
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tools"
+        }
+      ],
+      "title": "Lists"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LIST: Awesome-Computational-Neuroscience",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 163022594,
+            "language": null,
+            "last_commit": "2024-08-02T18:19:50Z",
+            "owner": "eselkin",
+            "repo": "awesome-computational-neuroscience",
+            "stars": 993
+          }
+        }
+      ],
+      "title": "Neuroscience"
     },
     {
       "description": null,
@@ -285,7 +334,7 @@
             "archived": false,
             "id": 42372094,
             "language": "Shell",
-            "last_commit": "2026-08-24T05:19:23Z",
+            "last_commit": "2026-08-24T14:09:39Z",
             "owner": "bioconda",
             "repo": "bioconda-recipes",
             "stars": 1862
@@ -311,7 +360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:49:50.682Z",
+    "last_updated": "2026-08-24T14:24:00.985Z",
     "original_repository": "raivivek/awesome-biology",
     "original_repository_id": 24221254,
     "original_repository_sha": "deb849cea4c67bbcd2a4a81c4d014888f357831e",
