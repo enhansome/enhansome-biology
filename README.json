@@ -334,7 +334,7 @@
             "archived": false,
             "id": 42372094,
             "language": "Shell",
-            "last_commit": "2026-08-25T05:31:58Z",
+            "last_commit": "2026-08-25T06:13:08Z",
             "owner": "bioconda",
             "repo": "bioconda-recipes",
             "stars": 1862
@@ -360,7 +360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:42:15.738Z",
+    "last_updated": "2026-08-25T06:18:35.559Z",
     "original_repository": "raivivek/awesome-biology",
     "original_repository_id": 24221254,
     "original_repository_sha": "deb849cea4c67bbcd2a4a81c4d014888f357831e",
