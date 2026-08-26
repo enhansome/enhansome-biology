@@ -15,7 +15,7 @@
             "last_commit": "2026-04-07T14:29:34Z",
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4254
+            "stars": 4255
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T19:10:24Z",
             "owner": "seandavi",
             "repo": "awesome-single-cell",
-            "stars": 3839
+            "stars": 3841
           }
         },
         {
@@ -286,7 +286,7 @@
             "last_commit": "2026-04-07T14:29:34Z",
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4254
+            "stars": 4255
           }
         },
         {
@@ -322,7 +322,7 @@
             "last_commit": "2026-07-15T18:56:45Z",
             "owner": "ResearchKit",
             "repo": "ResearchKit",
-            "stars": 5745
+            "stars": 5744
           }
         },
         {
@@ -334,7 +334,7 @@
             "archived": false,
             "id": 42372094,
             "language": "Shell",
-            "last_commit": "2026-08-25T06:13:08Z",
+            "last_commit": "2026-08-26T05:20:45Z",
             "owner": "bioconda",
             "repo": "bioconda-recipes",
             "stars": 1862
@@ -360,7 +360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:18:35.559Z",
+    "last_updated": "2026-08-26T05:45:57.853Z",
     "original_repository": "raivivek/awesome-biology",
     "original_repository_id": 24221254,
     "original_repository_sha": "deb849cea4c67bbcd2a4a81c4d014888f357831e",
