@@ -15,7 +15,7 @@
             "last_commit": "2026-04-07T14:29:34Z",
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4255
+            "stars": 4260
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T19:10:24Z",
             "owner": "seandavi",
             "repo": "awesome-single-cell",
-            "stars": 3841
+            "stars": 3840
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 110871367,
             "language": "Python",
-            "last_commit": "2026-08-24T16:43:02Z",
+            "last_commit": "2026-08-26T13:51:18Z",
             "owner": "leipzig",
             "repo": "awesome-reproducible-research",
             "stars": 402
@@ -286,7 +286,7 @@
             "last_commit": "2026-04-07T14:29:34Z",
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4255
+            "stars": 4260
           }
         },
         {
@@ -334,7 +334,7 @@
             "archived": false,
             "id": 42372094,
             "language": "Shell",
-            "last_commit": "2026-08-26T05:20:45Z",
+            "last_commit": "2026-08-27T11:20:06Z",
             "owner": "bioconda",
             "repo": "bioconda-recipes",
             "stars": 1862
@@ -360,9 +360,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:45:57.853Z",
-    "original_repository": "raivivek/awesome-biology",
-    "original_repository_id": 24221254,
+    "last_updated": "2026-08-27T11:26:36.746Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 24221254,
+      "language": null,
+      "last_commit": "2026-05-17T02:13:53Z",
+      "owner": "raivivek",
+      "repo": "awesome-biology",
+      "stars": 452
+    },
     "original_repository_sha": "deb849cea4c67bbcd2a4a81c4d014888f357831e",
     "enhanced_repository": "enhansome/enhansome-biology",
     "enhanced_repository_description": null,
