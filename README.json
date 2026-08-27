@@ -15,7 +15,7 @@
             "last_commit": "2026-04-07T14:29:34Z",
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4260
+            "stars": 4261
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T19:10:24Z",
             "owner": "seandavi",
             "repo": "awesome-single-cell",
-            "stars": 3840
+            "stars": 3841
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-26T13:51:18Z",
             "owner": "leipzig",
             "repo": "awesome-reproducible-research",
-            "stars": 402
+            "stars": 403
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2022-12-15T06:58:15Z",
             "owner": "websemantics",
             "repo": "awesome-synthetic-biology",
-            "stars": 222
+            "stars": 223
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-03-14T14:38:05Z",
             "owner": "hallvaaw",
             "repo": "awesome-biological-image-analysis",
-            "stars": 192
+            "stars": 193
           }
         }
       ],
@@ -286,7 +286,7 @@
             "last_commit": "2026-04-07T14:29:34Z",
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4260
+            "stars": 4261
           }
         },
         {
@@ -334,7 +334,7 @@
             "archived": false,
             "id": 42372094,
             "language": "Shell",
-            "last_commit": "2026-08-27T11:20:06Z",
+            "last_commit": "2026-08-27T16:25:47Z",
             "owner": "bioconda",
             "repo": "bioconda-recipes",
             "stars": 1862
@@ -360,7 +360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:26:36.746Z",
+    "last_updated": "2026-08-27T16:25:51.725Z",
     "original_repository_info": {
       "archived": false,
       "id": 24221254,
