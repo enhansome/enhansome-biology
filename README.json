@@ -16,7 +16,8 @@
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
             "stars": 4261
-          }
+          },
+          "first_seen": "2026-08-28T17:23:06.394Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "seandavi",
             "repo": "awesome-single-cell",
             "stars": 3841
-          }
+          },
+          "first_seen": "2026-08-28T17:23:06.394Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "gokceneraslan",
             "repo": "awesome-deepbio",
             "stars": 1988
-          }
+          },
+          "first_seen": "2026-08-28T17:23:06.394Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "eselkin",
             "repo": "awesome-computational-neuroscience",
             "stars": 993
-          }
+          },
+          "first_seen": "2026-08-28T17:23:06.394Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "mikelove",
             "repo": "awesome-multi-omics",
             "stars": 942
-          }
+          },
+          "first_seen": "2026-08-28T17:23:06.394Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2025-06-23T07:41:58Z",
             "owner": "nextflow-io",
             "repo": "awesome-nextflow",
-            "stars": 631
-          }
+            "stars": 632
+          },
+          "first_seen": "2026-08-28T17:23:06.394Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "leipzig",
             "repo": "awesome-reproducible-research",
             "stars": 403
-          }
+          },
+          "first_seen": "2026-08-28T17:23:06.394Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "seandavi",
             "repo": "awesome-cancer-variant-resources",
             "stars": 337
-          }
+          },
+          "first_seen": "2026-08-28T17:23:06.394Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "websemantics",
             "repo": "awesome-synthetic-biology",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T17:23:06.394Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "hallvaaw",
             "repo": "awesome-biological-image-analysis",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T17:23:06.394Z"
         }
       ],
       "title": "Awesome"
@@ -174,7 +184,8 @@
                 "owner": "jdidion",
                 "repo": "biotools",
                 "stars": 640
-              }
+              },
+              "first_seen": "2026-08-28T17:23:06.394Z"
             }
           ],
           "description": null,
@@ -200,7 +211,8 @@
             "owner": "eselkin",
             "repo": "awesome-computational-neuroscience",
             "stars": 993
-          }
+          },
+          "first_seen": "2026-08-28T17:23:06.394Z"
         }
       ],
       "title": "Neuroscience"
@@ -221,7 +233,8 @@
             "owner": "hussius",
             "repo": "deeplearning-biology",
             "stars": 2155
-          }
+          },
+          "first_seen": "2026-08-28T17:23:06.394Z"
         },
         {
           "node_type": "item",
@@ -236,7 +249,8 @@
             "owner": "gokceneraslan",
             "repo": "awesome-deepbio",
             "stars": 1988
-          }
+          },
+          "first_seen": "2026-08-28T17:23:06.394Z"
         },
         {
           "node_type": "item",
@@ -251,7 +265,8 @@
             "owner": "pimentel",
             "repo": "deep_learning_papers",
             "stars": 189
-          }
+          },
+          "first_seen": "2026-08-28T17:23:06.394Z"
         },
         {
           "node_type": "item",
@@ -266,7 +281,8 @@
             "owner": "alxndrkalinin",
             "repo": "awesome-deepneuroimage",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-28T17:23:06.394Z"
         }
       ],
       "title": "Deep Learning"
@@ -287,7 +303,8 @@
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
             "stars": 4261
-          }
+          },
+          "first_seen": "2026-08-28T17:23:06.394Z"
         },
         {
           "node_type": "item",
@@ -302,7 +319,8 @@
             "owner": "jtleek",
             "repo": "genomicspapers",
             "stars": 505
-          }
+          },
+          "first_seen": "2026-08-28T17:23:06.394Z"
         }
       ],
       "title": "Bioinformatics"
@@ -323,7 +341,8 @@
             "owner": "ResearchKit",
             "repo": "ResearchKit",
             "stars": 5744
-          }
+          },
+          "first_seen": "2026-08-28T17:23:06.394Z"
         },
         {
           "node_type": "item",
@@ -334,11 +353,12 @@
             "archived": false,
             "id": 42372094,
             "language": "Shell",
-            "last_commit": "2026-08-27T16:25:47Z",
+            "last_commit": "2026-08-28T17:14:02Z",
             "owner": "bioconda",
             "repo": "bioconda-recipes",
-            "stars": 1862
-          }
+            "stars": 1863
+          },
+          "first_seen": "2026-08-28T17:23:06.394Z"
         },
         {
           "node_type": "item",
@@ -353,14 +373,15 @@
             "owner": "boscoh",
             "repo": "pdbremix",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T17:23:06.394Z"
         }
       ],
       "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:25:51.725Z",
+    "last_updated": "2026-08-28T17:23:06.394Z",
     "original_repository_info": {
       "archived": false,
       "id": 24221254,
