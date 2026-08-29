@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Bioinformatics libraries and software.",
+            "homepage": null,
             "id": 23372071,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-07T14:29:34Z",
+            "open_issues": 35,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4261
+            "stars": 4261,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bioinformatics"
+            ]
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
         },
@@ -26,12 +35,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
+            "homepage": null,
             "id": 62237945,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-21T19:10:24Z",
+            "open_issues": 11,
             "owner": "seandavi",
             "repo": "awesome-single-cell",
-            "stars": 3841
+            "stars": 3841,
+            "topics": [
+              "analysis-pipeline",
+              "atac-seq",
+              "awesome-list",
+              "bioinformatics",
+              "cell-clusters",
+              "cell-differentiation",
+              "cell-populations",
+              "clustering",
+              "data-integration",
+              "data-visualization",
+              "dimensionality-reduction",
+              "gene-expression",
+              "gene-expression-profiles",
+              "python",
+              "rna-seq-data",
+              "rna-seq-experiments",
+              "scrna-seq-data",
+              "single-cell",
+              "spatial-transcriptomics"
+            ]
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
         },
@@ -42,12 +76,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome deep learning applications in the field of computational biology",
+            "homepage": null,
             "id": 50022436,
             "language": null,
+            "license": null,
             "last_commit": "2021-11-07T22:43:41Z",
+            "open_issues": 6,
             "owner": "gokceneraslan",
             "repo": "awesome-deepbio",
-            "stars": 1988
+            "stars": 1988,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
         },
@@ -58,12 +97,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of schools and researchers in computational neuroscience",
+            "homepage": null,
             "id": 163022594,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-08-02T18:19:50Z",
+            "open_issues": 7,
             "owner": "eselkin",
             "repo": "awesome-computational-neuroscience",
-            "stars": 993
+            "stars": 993,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "computational",
+              "computational-biology",
+              "computational-linguistics",
+              "computational-neuroscience",
+              "computational-psychiatry",
+              "computational-psychology",
+              "mathematical-neuroscience",
+              "neuroscience"
+            ]
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
         },
@@ -74,12 +129,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of software packages for multi-omics analysis",
+            "homepage": null,
             "id": 144076744,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-04T18:01:58Z",
+            "open_issues": 1,
             "owner": "mikelove",
             "repo": "awesome-multi-omics",
-            "stars": 942
+            "stars": 942,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
         },
@@ -90,12 +150,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of nextflow based pipelines",
+            "homepage": null,
             "id": 39799927,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-06-23T07:41:58Z",
+            "open_issues": 2,
             "owner": "nextflow-io",
             "repo": "awesome-nextflow",
-            "stars": 632
+            "stars": 632,
+            "topics": [
+              "awesome-list",
+              "nextflow"
+            ]
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
         },
@@ -106,12 +174,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
+            "homepage": null,
             "id": 110871367,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-26T13:51:18Z",
+            "open_issues": 27,
             "owner": "leipzig",
             "repo": "awesome-reproducible-research",
-            "stars": 403
+            "stars": 403,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "reproducibility",
+              "reproducible-analysis",
+              "reproducible-research",
+              "reproducible-science",
+              "reproducible-workflows"
+            ]
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
         },
@@ -122,12 +203,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A community-maintained repository of cancer clinical knowledge bases and databases focused on cancer variants.",
+            "homepage": null,
             "id": 62807989,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-05-18T09:02:11Z",
+            "open_issues": 1,
             "owner": "seandavi",
             "repo": "awesome-cancer-variant-resources",
-            "stars": 337
+            "stars": 337,
+            "topics": [
+              "awesome-list",
+              "bioinformatics",
+              "cancer",
+              "cancer-genomics",
+              "cancer-variants",
+              "clinical-trials",
+              "mutations",
+              "u24ca289073"
+            ]
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
         },
@@ -138,12 +233,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Synthetic Biology / Genetic Engineering projects, articles and resources. The main idea is that everyone can contribute here, so we can have a central repository of informations about this fascinating subject that we all can keep up-to-date.",
+            "homepage": null,
             "id": 55878038,
             "language": null,
+            "license": null,
             "last_commit": "2022-12-15T06:58:15Z",
+            "open_issues": 2,
             "owner": "websemantics",
             "repo": "awesome-synthetic-biology",
-            "stars": 223
+            "stars": 223,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
         },
@@ -154,12 +254,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of software, tools, pipelines, plugins etc. for image analysis related to biological questions.",
+            "homepage": null,
             "id": 472116111,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-03-14T14:38:05Z",
+            "open_issues": 0,
             "owner": "hallvaaw",
             "repo": "awesome-biological-image-analysis",
-            "stars": 193
+            "stars": 193,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bioimage-analysis",
+              "biology",
+              "cellprofiler",
+              "image-analysis",
+              "image-processing",
+              "imagej",
+              "imaging",
+              "microscopy",
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
         }
@@ -178,12 +295,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of useful bioinformatics resources",
+                "homepage": null,
                 "id": 73105904,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-05-04T13:30:35Z",
+                "open_issues": 3,
                 "owner": "jdidion",
                 "repo": "biotools",
-                "stars": 640
+                "stars": 640,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:23:06.394Z"
             }
@@ -205,12 +327,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of schools and researchers in computational neuroscience",
+            "homepage": null,
             "id": 163022594,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-08-02T18:19:50Z",
+            "open_issues": 7,
             "owner": "eselkin",
             "repo": "awesome-computational-neuroscience",
-            "stars": 993
+            "stars": 993,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "computational",
+              "computational-biology",
+              "computational-linguistics",
+              "computational-neuroscience",
+              "computational-psychiatry",
+              "computational-psychology",
+              "mathematical-neuroscience",
+              "neuroscience"
+            ]
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
         }
@@ -227,12 +365,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of deep learning implementations in biology",
+            "homepage": null,
             "id": 60209509,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-03T16:05:10Z",
+            "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2155
+            "stars": 2155,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
         },
@@ -243,12 +386,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome deep learning applications in the field of computational biology",
+            "homepage": null,
             "id": 50022436,
             "language": null,
+            "license": null,
             "last_commit": "2021-11-07T22:43:41Z",
+            "open_issues": 6,
             "owner": "gokceneraslan",
             "repo": "awesome-deepbio",
-            "stars": 1988
+            "stars": 1988,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
         },
@@ -259,12 +407,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A place to collect papers that are related to deep learning and computational biology",
+            "homepage": null,
             "id": 47209291,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2016-02-13T15:32:12Z",
+            "open_issues": 0,
             "owner": "pimentel",
             "repo": "deep_learning_papers",
-            "stars": 189
+            "stars": 189,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
         },
@@ -275,12 +428,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome deep learning applications in the field of neurological image analysis",
+            "homepage": null,
             "id": 68620335,
             "language": null,
+            "license": null,
             "last_commit": "2018-04-30T18:18:41Z",
+            "open_issues": 0,
             "owner": "alxndrkalinin",
             "repo": "awesome-deepneuroimage",
-            "stars": 154
+            "stars": 154,
+            "topics": [
+              "deep-learning",
+              "deep-neural-networks",
+              "neuroimaging",
+              "neurological-image-analysis"
+            ]
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
         }
@@ -297,12 +460,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Bioinformatics libraries and software.",
+            "homepage": null,
             "id": 23372071,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-07T14:29:34Z",
+            "open_issues": 35,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4261
+            "stars": 4261,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bioinformatics"
+            ]
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
         },
@@ -313,12 +485,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Leek group guide to genomics papers",
+            "homepage": null,
             "id": 24905212,
             "language": null,
+            "license": null,
             "last_commit": "2018-11-05T18:49:23Z",
+            "open_issues": 3,
             "owner": "jtleek",
             "repo": "genomicspapers",
-            "stars": 505
+            "stars": 505,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
         }
@@ -335,12 +512,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.",
+            "homepage": "https://www.researchandcare.org",
             "id": 31979038,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-15T18:56:45Z",
+            "open_issues": 150,
             "owner": "ResearchKit",
             "repo": "ResearchKit",
-            "stars": 5744
+            "stars": 5744,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
         },
@@ -351,12 +533,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conda recipes for the bioconda channel.",
+            "homepage": "https://bioconda.github.io",
             "id": 42372094,
             "language": "Shell",
-            "last_commit": "2026-08-28T17:14:02Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:09:54Z",
+            "open_issues": 1278,
             "owner": "bioconda",
             "repo": "bioconda-recipes",
-            "stars": 1863
+            "stars": 1863,
+            "topics": [
+              "bioinformatics",
+              "conda",
+              "hacktoberfest",
+              "package-management"
+            ]
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
         },
@@ -367,12 +559,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "analyse PDB files, run molecular-dynamics & analyse trajectories",
+            "homepage": null,
             "id": 19235974,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-02-26T04:52:48Z",
+            "open_issues": 4,
             "owner": "boscoh",
             "repo": "pdbremix",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
         }
@@ -381,15 +578,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:23:06.394Z",
+    "last_updated": "2026-08-29T04:42:43.023Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated (meta)list of resources for Biology.",
+      "homepage": null,
       "id": 24221254,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-05-17T02:13:53Z",
+      "open_issues": 4,
       "owner": "raivivek",
       "repo": "awesome-biology",
-      "stars": 452
+      "stars": 452,
+      "topics": [
+        "awesome-list",
+        "bioinformatics",
+        "biology",
+        "books",
+        "evolution",
+        "science",
+        "systems-biology"
+      ]
     },
     "original_repository_sha": "deb849cea4c67bbcd2a4a81c4d014888f357831e",
     "enhanced_repository": "enhansome/enhansome-biology",
