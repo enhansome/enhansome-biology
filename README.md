@@ -5,8 +5,8 @@ resources across different fields in Biology. This is inspired from several such
 lists in programming community.
 
 If you want to contribute to this list (please do), [send a pull
-request](https://github.com/raivivek/awesome-biology/compare) ⭐ 452 | 🐛 4 | 📅 2026-05-17, [open an
-issue](https://github.com/vivekiitkgp/awesome-biology/issues/new) ⭐ 452 | 🐛 4 | 📅 2026-05-17. When sending
+request](https://github.com/raivivek/awesome-biology/compare) ⭐ 453 | 🐛 5 | 📅 2026-05-17, [open an
+issue](https://github.com/vivekiitkgp/awesome-biology/issues/new) ⭐ 453 | 🐛 5 | 📅 2026-05-17. When sending
 suggestions please add a short blurb/description about resource that you have personally
 read/benefited from. Feel free to debate quality, headings, etc. irrespective of any
 particular field or subject area.
@@ -14,7 +14,7 @@ particular field or subject area.
 All the resources need not be freely available for download.
 
 For Q\&A type of resources that share excellent insight see
-[here](https://github.com/vivekiitkgp/awesome-biology/blob/master/quora.md) ⭐ 452 | 🐛 4 | 📅 2026-05-17.
+[here](https://github.com/vivekiitkgp/awesome-biology/blob/master/quora.md) ⭐ 453 | 🐛 5 | 📅 2026-05-17.
 
 For a list of review research articles, see [awesome-reviews](awesome-reviews.md).
 
@@ -298,7 +298,7 @@ Other awesome lists without the *awesome* branding.
 ## Tools
 
 * [ResearchKit](https://github.com/ResearchKit/ResearchKit) ⭐ 5,744 | 🐛 150 | 🌐 Objective-C | 📅 2026-07-15, Framework to create apps for medical research
-* [bioconda-recipes](https://github.com/bioconda/bioconda-recipes) ⭐ 1,863 | 🐛 1,278 | 🌐 Shell | 📅 2026-08-29, Conda recipes to install bioinformatics software
+* [bioconda-recipes](https://github.com/bioconda/bioconda-recipes) ⭐ 1,863 | 🐛 1,280 | 🌐 Shell | 📅 2026-08-29, Conda recipes to install bioinformatics software
 * [PDBREMIX](https://github.com/boscoh/pdbremix) ⭐ 61 | 🐛 4 | 🌐 Python | 📅 2018-02-26, Library to analyze protein structures and protein simulations
 * [OMICS Tools](https://omictools.com/), A huge collection of tools
 * [scikit-bio](http://scikit-bio.org), in development Python library for bioinformatics
