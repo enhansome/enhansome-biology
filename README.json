@@ -16,10 +16,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-07T14:29:34Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4261,
+            "stars": 4260,
             "topics": [
               "awesome",
               "awesome-list",
@@ -44,7 +44,7 @@
             "open_issues": 11,
             "owner": "seandavi",
             "repo": "awesome-single-cell",
-            "stars": 3841,
+            "stars": 3842,
             "topics": [
               "analysis-pipeline",
               "atac-seq",
@@ -374,7 +374,7 @@
             "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2155,
+            "stars": 2156,
             "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
@@ -466,10 +466,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-07T14:29:34Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4261,
+            "stars": 4260,
             "topics": [
               "awesome",
               "awesome-list",
@@ -538,8 +538,8 @@
             "id": 42372094,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-29T10:18:54Z",
-            "open_issues": 1280,
+            "last_commit": "2026-08-30T10:22:37Z",
+            "open_issues": 1281,
             "owner": "bioconda",
             "repo": "bioconda-recipes",
             "stars": 1863,
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:37:19.007Z",
+    "last_updated": "2026-08-30T10:26:58.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated (meta)list of resources for Biology.",
