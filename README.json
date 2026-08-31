@@ -16,7 +16,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-07T14:29:34Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
             "stars": 4260,
@@ -106,7 +106,7 @@
             "open_issues": 7,
             "owner": "eselkin",
             "repo": "awesome-computational-neuroscience",
-            "stars": 993,
+            "stars": 995,
             "topics": [
               "awesome",
               "awesome-list",
@@ -212,7 +212,7 @@
             "open_issues": 1,
             "owner": "seandavi",
             "repo": "awesome-cancer-variant-resources",
-            "stars": 337,
+            "stars": 338,
             "topics": [
               "awesome-list",
               "bioinformatics",
@@ -260,7 +260,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-03-14T14:38:05Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "hallvaaw",
             "repo": "awesome-biological-image-analysis",
             "stars": 193,
@@ -336,7 +336,7 @@
             "open_issues": 7,
             "owner": "eselkin",
             "repo": "awesome-computational-neuroscience",
-            "stars": 993,
+            "stars": 995,
             "topics": [
               "awesome",
               "awesome-list",
@@ -466,7 +466,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-07T14:29:34Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
             "stars": 4260,
@@ -538,11 +538,11 @@
             "id": 42372094,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-30T10:22:37Z",
-            "open_issues": 1281,
+            "last_commit": "2026-08-31T08:12:05Z",
+            "open_issues": 1277,
             "owner": "bioconda",
             "repo": "bioconda-recipes",
-            "stars": 1863,
+            "stars": 1864,
             "topics": [
               "bioinformatics",
               "conda",
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T10:26:58.033Z",
+    "last_updated": "2026-08-31T11:33:02.621Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated (meta)list of resources for Biology.",
