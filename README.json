@@ -19,7 +19,7 @@
             "open_issues": 37,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4260,
+            "stars": 4259,
             "topics": [
               "awesome",
               "awesome-list",
@@ -40,7 +40,7 @@
             "id": 62237945,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-08-21T19:10:24Z",
+            "last_commit": "2026-09-01T04:50:04Z",
             "open_issues": 11,
             "owner": "seandavi",
             "repo": "awesome-single-cell",
@@ -259,8 +259,8 @@
             "id": 472116111,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-03-14T14:38:05Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-01T08:44:58Z",
+            "open_issues": 0,
             "owner": "hallvaaw",
             "repo": "awesome-biological-image-analysis",
             "stars": 193,
@@ -469,7 +469,7 @@
             "open_issues": 37,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4260,
+            "stars": 4259,
             "topics": [
               "awesome",
               "awesome-list",
@@ -521,7 +521,7 @@
             "open_issues": 150,
             "owner": "ResearchKit",
             "repo": "ResearchKit",
-            "stars": 5744,
+            "stars": 5743,
             "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
@@ -538,11 +538,11 @@
             "id": 42372094,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-31T08:12:05Z",
-            "open_issues": 1277,
+            "last_commit": "2026-09-01T09:27:29Z",
+            "open_issues": 1276,
             "owner": "bioconda",
             "repo": "bioconda-recipes",
-            "stars": 1864,
+            "stars": 1866,
             "topics": [
               "bioinformatics",
               "conda",
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T11:33:02.621Z",
+    "last_updated": "2026-09-01T10:00:23.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated (meta)list of resources for Biology.",
@@ -590,7 +590,7 @@
       "open_issues": 5,
       "owner": "raivivek",
       "repo": "awesome-biology",
-      "stars": 453,
+      "stars": 454,
       "topics": [
         "awesome-list",
         "bioinformatics",
