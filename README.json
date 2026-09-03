@@ -44,7 +44,7 @@
             "open_issues": 11,
             "owner": "seandavi",
             "repo": "awesome-single-cell",
-            "stars": 3844,
+            "stars": 3845,
             "topics": [
               "analysis-pipeline",
               "atac-seq",
@@ -521,7 +521,7 @@
             "open_issues": 150,
             "owner": "ResearchKit",
             "repo": "ResearchKit",
-            "stars": 5743,
+            "stars": 5744,
             "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
@@ -538,8 +538,8 @@
             "id": 42372094,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-02T09:14:07Z",
-            "open_issues": 1287,
+            "last_commit": "2026-09-03T09:40:38Z",
+            "open_issues": 1298,
             "owner": "bioconda",
             "repo": "bioconda-recipes",
             "stars": 1866,
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T09:31:45.888Z",
+    "last_updated": "2026-09-03T09:40:46.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated (meta)list of resources for Biology.",

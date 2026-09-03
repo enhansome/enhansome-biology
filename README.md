@@ -48,7 +48,7 @@ For a list of review research articles, see [awesome-reviews](awesome-reviews.md
 ## Awesome
 
 * [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,261 | 🐛 37 | 📅 2026-04-07
-* [Awesome Single-Cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,844 | 🐛 11 | 📅 2026-09-01
+* [Awesome Single-Cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,845 | 🐛 11 | 📅 2026-09-01
 * [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio) ⭐ 1,988 | 🐛 6 | 📅 2021-11-07
 * [Awesome-Computational-Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience) ⭐ 995 | 🐛 7 | 📅 2024-08-02
 * [Awesome Multi-Omics](https://github.com/mikelove/awesome-multi-omics) ⭐ 942 | 🐛 1 | 📅 2026-08-04
@@ -297,8 +297,8 @@ Other awesome lists without the *awesome* branding.
 
 ## Tools
 
-* [ResearchKit](https://github.com/ResearchKit/ResearchKit) ⭐ 5,743 | 🐛 150 | 🌐 Objective-C | 📅 2026-07-15, Framework to create apps for medical research
-* [bioconda-recipes](https://github.com/bioconda/bioconda-recipes) ⭐ 1,866 | 🐛 1,287 | 🌐 Shell | 📅 2026-09-02, Conda recipes to install bioinformatics software
+* [ResearchKit](https://github.com/ResearchKit/ResearchKit) ⭐ 5,744 | 🐛 150 | 🌐 Objective-C | 📅 2026-07-15, Framework to create apps for medical research
+* [bioconda-recipes](https://github.com/bioconda/bioconda-recipes) ⭐ 1,866 | 🐛 1,298 | 🌐 Shell | 📅 2026-09-03, Conda recipes to install bioinformatics software
 * [PDBREMIX](https://github.com/boscoh/pdbremix) ⭐ 61 | 🐛 4 | 🌐 Python | 📅 2018-02-26, Library to analyze protein structures and protein simulations
 * [OMICS Tools](https://omictools.com/), A huge collection of tools
 * [scikit-bio](http://scikit-bio.org), in development Python library for bioinformatics
@@ -353,4 +353,4 @@ Other awesome lists without the *awesome* branding.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
