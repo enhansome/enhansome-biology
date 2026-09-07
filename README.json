@@ -19,7 +19,7 @@
             "open_issues": 37,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4267,
+            "stars": 4268,
             "topics": [
               "awesome",
               "awesome-list",
@@ -40,11 +40,11 @@
             "id": 62237945,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-01T04:50:04Z",
+            "last_commit": "2026-09-07T03:16:09Z",
             "open_issues": 12,
             "owner": "seandavi",
             "repo": "awesome-single-cell",
-            "stars": 3848,
+            "stars": 3849,
             "topics": [
               "analysis-pipeline",
               "atac-seq",
@@ -183,7 +183,7 @@
             "open_issues": 27,
             "owner": "leipzig",
             "repo": "awesome-reproducible-research",
-            "stars": 403,
+            "stars": 404,
             "topics": [
               "awesome",
               "awesome-list",
@@ -469,7 +469,7 @@
             "open_issues": 37,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4267,
+            "stars": 4268,
             "topics": [
               "awesome",
               "awesome-list",
@@ -521,7 +521,7 @@
             "open_issues": 150,
             "owner": "ResearchKit",
             "repo": "ResearchKit",
-            "stars": 5745,
+            "stars": 5747,
             "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
@@ -538,11 +538,11 @@
             "id": 42372094,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-06T08:10:13Z",
-            "open_issues": 1310,
+            "last_commit": "2026-09-07T09:56:04Z",
+            "open_issues": 1270,
             "owner": "bioconda",
             "repo": "bioconda-recipes",
-            "stars": 1867,
+            "stars": 1868,
             "topics": [
               "bioinformatics",
               "conda",
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T09:21:13.986Z",
+    "last_updated": "2026-09-07T10:10:49.261Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated (meta)list of resources for Biology.",
