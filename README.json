@@ -19,7 +19,7 @@
             "open_issues": 39,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4272,
+            "stars": 4273,
             "topics": [
               "awesome",
               "awesome-list",
@@ -179,8 +179,8 @@
             "id": 110871367,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-08-26T13:51:18Z",
-            "open_issues": 28,
+            "last_commit": "2026-09-09T16:03:09Z",
+            "open_issues": 27,
             "owner": "leipzig",
             "repo": "awesome-reproducible-research",
             "stars": 404,
@@ -263,7 +263,7 @@
             "open_issues": 0,
             "owner": "hallvaaw",
             "repo": "awesome-biological-image-analysis",
-            "stars": 194,
+            "stars": 195,
             "topics": [
               "awesome",
               "awesome-list",
@@ -469,7 +469,7 @@
             "open_issues": 39,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4272,
+            "stars": 4273,
             "topics": [
               "awesome",
               "awesome-list",
@@ -538,8 +538,8 @@
             "id": 42372094,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-09T09:25:46Z",
-            "open_issues": 1299,
+            "last_commit": "2026-09-10T09:13:29Z",
+            "open_issues": 1292,
             "owner": "bioconda",
             "repo": "bioconda-recipes",
             "stars": 1868,
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T09:37:59.281Z",
+    "last_updated": "2026-09-10T09:37:16.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated (meta)list of resources for Biology.",
