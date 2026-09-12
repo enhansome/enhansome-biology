@@ -16,10 +16,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-07T14:29:34Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4275,
+            "stars": 4278,
             "topics": [
               "awesome",
               "awesome-list",
@@ -44,7 +44,7 @@
             "open_issues": 12,
             "owner": "seandavi",
             "repo": "awesome-single-cell",
-            "stars": 3855,
+            "stars": 3856,
             "topics": [
               "analysis-pipeline",
               "atac-seq",
@@ -85,7 +85,7 @@
             "open_issues": 6,
             "owner": "gokceneraslan",
             "repo": "awesome-deepbio",
-            "stars": 1988,
+            "stars": 1989,
             "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
@@ -138,7 +138,7 @@
             "open_issues": 1,
             "owner": "mikelove",
             "repo": "awesome-multi-omics",
-            "stars": 944,
+            "stars": 945,
             "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
@@ -304,7 +304,7 @@
                 "open_issues": 3,
                 "owner": "jdidion",
                 "repo": "biotools",
-                "stars": 640,
+                "stars": 641,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:23:06.394Z"
@@ -374,7 +374,7 @@
             "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2157,
+            "stars": 2156,
             "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
@@ -395,7 +395,7 @@
             "open_issues": 6,
             "owner": "gokceneraslan",
             "repo": "awesome-deepbio",
-            "stars": 1988,
+            "stars": 1989,
             "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
@@ -466,10 +466,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-07T14:29:34Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4275,
+            "stars": 4278,
             "topics": [
               "awesome",
               "awesome-list",
@@ -538,11 +538,11 @@
             "id": 42372094,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-11T08:58:16Z",
-            "open_issues": 1260,
+            "last_commit": "2026-09-12T09:03:13Z",
+            "open_issues": 1400,
             "owner": "bioconda",
             "repo": "bioconda-recipes",
-            "stars": 1868,
+            "stars": 1869,
             "topics": [
               "bioinformatics",
               "conda",
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T09:34:54.297Z",
+    "last_updated": "2026-09-12T09:13:44.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated (meta)list of resources for Biology.",
