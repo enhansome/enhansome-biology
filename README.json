@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4285,
+            "stars": 4287,
             "topics": [
               "awesome",
               "awesome-list",
@@ -44,7 +44,7 @@
             "open_issues": 12,
             "owner": "seandavi",
             "repo": "awesome-single-cell",
-            "stars": 3856,
+            "stars": 3857,
             "topics": [
               "analysis-pipeline",
               "atac-seq",
@@ -106,7 +106,7 @@
             "open_issues": 7,
             "owner": "eselkin",
             "repo": "awesome-computational-neuroscience",
-            "stars": 998,
+            "stars": 1000,
             "topics": [
               "awesome",
               "awesome-list",
@@ -336,7 +336,7 @@
             "open_issues": 7,
             "owner": "eselkin",
             "repo": "awesome-computational-neuroscience",
-            "stars": 998,
+            "stars": 1000,
             "topics": [
               "awesome",
               "awesome-list",
@@ -469,7 +469,7 @@
             "open_issues": 42,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4285,
+            "stars": 4287,
             "topics": [
               "awesome",
               "awesome-list",
@@ -538,8 +538,8 @@
             "id": 42372094,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-19T09:08:36Z",
-            "open_issues": 1318,
+            "last_commit": "2026-09-20T08:32:03Z",
+            "open_issues": 1324,
             "owner": "bioconda",
             "repo": "bioconda-recipes",
             "stars": 1868,
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T09:25:42.942Z",
+    "last_updated": "2026-09-20T09:44:47.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated (meta)list of resources for Biology.",
