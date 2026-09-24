@@ -19,7 +19,7 @@
             "open_issues": 43,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4301,
+            "stars": 4300,
             "topics": [
               "awesome",
               "awesome-list",
@@ -138,7 +138,7 @@
             "open_issues": 1,
             "owner": "mikelove",
             "repo": "awesome-multi-omics",
-            "stars": 945,
+            "stars": 946,
             "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
@@ -437,7 +437,7 @@
             "open_issues": 0,
             "owner": "alxndrkalinin",
             "repo": "awesome-deepneuroimage",
-            "stars": 154,
+            "stars": 155,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -469,7 +469,7 @@
             "open_issues": 43,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4301,
+            "stars": 4300,
             "topics": [
               "awesome",
               "awesome-list",
@@ -517,7 +517,7 @@
             "id": 31979038,
             "language": "Objective-C",
             "license": "NOASSERTION",
-            "last_commit": "2026-07-15T18:56:45Z",
+            "last_commit": "2026-09-23T18:32:51Z",
             "open_issues": 150,
             "owner": "ResearchKit",
             "repo": "ResearchKit",
@@ -538,8 +538,8 @@
             "id": 42372094,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-23T09:09:45Z",
-            "open_issues": 1342,
+            "last_commit": "2026-09-24T09:22:18Z",
+            "open_issues": 1352,
             "owner": "bioconda",
             "repo": "bioconda-recipes",
             "stars": 1869,
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T09:54:04.544Z",
+    "last_updated": "2026-09-24T09:55:25.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated (meta)list of resources for Biology.",
