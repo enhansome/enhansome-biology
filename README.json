@@ -19,7 +19,7 @@
             "open_issues": 43,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4301,
+            "stars": 4303,
             "topics": [
               "awesome",
               "awesome-list",
@@ -106,7 +106,7 @@
             "open_issues": 7,
             "owner": "eselkin",
             "repo": "awesome-computational-neuroscience",
-            "stars": 1002,
+            "stars": 1000,
             "topics": [
               "awesome",
               "awesome-list",
@@ -336,7 +336,7 @@
             "open_issues": 7,
             "owner": "eselkin",
             "repo": "awesome-computational-neuroscience",
-            "stars": 1002,
+            "stars": 1000,
             "topics": [
               "awesome",
               "awesome-list",
@@ -469,7 +469,7 @@
             "open_issues": 43,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4301,
+            "stars": 4303,
             "topics": [
               "awesome",
               "awesome-list",
@@ -538,8 +538,8 @@
             "id": 42372094,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-25T09:26:13Z",
-            "open_issues": 1347,
+            "last_commit": "2026-09-26T07:20:32Z",
+            "open_issues": 1355,
             "owner": "bioconda",
             "repo": "bioconda-recipes",
             "stars": 1869,
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T10:08:43.672Z",
+    "last_updated": "2026-09-26T09:49:30.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated (meta)list of resources for Biology.",
