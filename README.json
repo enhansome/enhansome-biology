@@ -19,7 +19,7 @@
             "open_issues": 44,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4306,
+            "stars": 4307,
             "topics": [
               "awesome",
               "awesome-list",
@@ -41,7 +41,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-27T21:07:42Z",
-            "open_issues": 14,
+            "open_issues": 17,
             "owner": "seandavi",
             "repo": "awesome-single-cell",
             "stars": 3863,
@@ -106,7 +106,7 @@
             "open_issues": 7,
             "owner": "eselkin",
             "repo": "awesome-computational-neuroscience",
-            "stars": 1001,
+            "stars": 1002,
             "topics": [
               "awesome",
               "awesome-list",
@@ -336,7 +336,7 @@
             "open_issues": 7,
             "owner": "eselkin",
             "repo": "awesome-computational-neuroscience",
-            "stars": 1001,
+            "stars": 1002,
             "topics": [
               "awesome",
               "awesome-list",
@@ -374,7 +374,7 @@
             "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2158,
+            "stars": 2159,
             "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
@@ -469,7 +469,7 @@
             "open_issues": 44,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4306,
+            "stars": 4307,
             "topics": [
               "awesome",
               "awesome-list",
@@ -538,11 +538,11 @@
             "id": 42372094,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-28T11:26:28Z",
-            "open_issues": 1345,
+            "last_commit": "2026-09-29T10:15:46Z",
+            "open_issues": 1348,
             "owner": "bioconda",
             "repo": "bioconda-recipes",
-            "stars": 1870,
+            "stars": 1871,
             "topics": [
               "bioinformatics",
               "conda",
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T11:38:20.431Z",
+    "last_updated": "2026-09-29T11:18:39.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated (meta)list of resources for Biology.",
