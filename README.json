@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Awesome Bioinformatics",
-          "description": null,
+          "description": "danielecook/Awesome-Bioinformatics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 44,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4305,
+            "stars": 4307,
             "topics": [
               "awesome",
               "awesome-list",
@@ -31,7 +31,7 @@
         {
           "node_type": "item",
           "title": "Awesome Single-Cell",
-          "description": null,
+          "description": "seandavi/awesome-single-cell",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -72,7 +72,7 @@
         {
           "node_type": "item",
           "title": "Awesome DeepBio",
-          "description": null,
+          "description": "gokceneraslan/awesome-deepbio",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -85,7 +85,7 @@
             "open_issues": 6,
             "owner": "gokceneraslan",
             "repo": "awesome-deepbio",
-            "stars": 1990,
+            "stars": 1992,
             "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
@@ -93,7 +93,7 @@
         {
           "node_type": "item",
           "title": "Awesome-Computational-Neuroscience",
-          "description": null,
+          "description": "eselkin/awesome-computational-neuroscience",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -106,7 +106,7 @@
             "open_issues": 7,
             "owner": "eselkin",
             "repo": "awesome-computational-neuroscience",
-            "stars": 1004,
+            "stars": 1005,
             "topics": [
               "awesome",
               "awesome-list",
@@ -125,7 +125,7 @@
         {
           "node_type": "item",
           "title": "Awesome Multi-Omics",
-          "description": null,
+          "description": "mikelove/awesome-multi-omics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -146,7 +146,7 @@
         {
           "node_type": "item",
           "title": "Awesome Nextflow",
-          "description": null,
+          "description": "nextflow-io/awesome-nextflow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -159,7 +159,7 @@
             "open_issues": 2,
             "owner": "nextflow-io",
             "repo": "awesome-nextflow",
-            "stars": 633,
+            "stars": 634,
             "topics": [
               "awesome-list",
               "nextflow"
@@ -170,7 +170,7 @@
         {
           "node_type": "item",
           "title": "Awesome Reproducible Research",
-          "description": null,
+          "description": "leipzig/awesome-reproducible-research",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -199,7 +199,7 @@
         {
           "node_type": "item",
           "title": "Awesome Cancer Variant Databases",
-          "description": null,
+          "description": "seandavi/awesome-cancer-variant-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -229,7 +229,7 @@
         {
           "node_type": "item",
           "title": "Awesome Synthetic Biology",
-          "description": null,
+          "description": "websemantics/awesome-synthetic-biology",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -250,7 +250,7 @@
         {
           "node_type": "item",
           "title": "Awesome Biological Image Analysis",
-          "description": null,
+          "description": "hallvaaw/awesome-biological-image-analysis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -291,7 +291,7 @@
             {
               "node_type": "item",
               "title": "Biotools by John Didion",
-              "description": null,
+              "description": "jdidion/biotools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -323,7 +323,7 @@
         {
           "node_type": "item",
           "title": "LIST: Awesome-Computational-Neuroscience",
-          "description": null,
+          "description": "eselkin/awesome-computational-neuroscience",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -336,7 +336,7 @@
             "open_issues": 7,
             "owner": "eselkin",
             "repo": "awesome-computational-neuroscience",
-            "stars": 1004,
+            "stars": 1005,
             "topics": [
               "awesome",
               "awesome-list",
@@ -361,7 +361,7 @@
         {
           "node_type": "item",
           "title": "List: Deep Learning in Biology",
-          "description": null,
+          "description": "hussius/deeplearning-biology",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -382,7 +382,7 @@
         {
           "node_type": "item",
           "title": "List: Deep Learning Applications in Computational Biology",
-          "description": null,
+          "description": "gokceneraslan/awesome-deepbio",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -395,7 +395,7 @@
             "open_issues": 6,
             "owner": "gokceneraslan",
             "repo": "awesome-deepbio",
-            "stars": 1990,
+            "stars": 1992,
             "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
@@ -403,7 +403,7 @@
         {
           "node_type": "item",
           "title": "List: Deep Learning in Computational Biology",
-          "description": null,
+          "description": "pimentel/deep_learning_papers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -424,7 +424,7 @@
         {
           "node_type": "item",
           "title": "List: Deep Learning in Neuronal Image Analysis",
-          "description": null,
+          "description": "alxndrkalinin/awesome-deepneuroimage",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -456,7 +456,7 @@
         {
           "node_type": "item",
           "title": "List: Awesome-Bioinformatics",
-          "description": null,
+          "description": "danielecook/Awesome-Bioinformatics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -469,7 +469,7 @@
             "open_issues": 44,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4305,
+            "stars": 4307,
             "topics": [
               "awesome",
               "awesome-list",
@@ -481,7 +481,7 @@
         {
           "node_type": "item",
           "title": "List: Curated list of papers for Computational Genomics",
-          "description": null,
+          "description": "jtleek/genomicspapers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -538,11 +538,11 @@
             "id": 42372094,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-02T10:01:34Z",
-            "open_issues": 1386,
+            "last_commit": "2026-10-03T03:27:33Z",
+            "open_issues": 1400,
             "owner": "bioconda",
             "repo": "bioconda-recipes",
-            "stars": 1874,
+            "stars": 1876,
             "topics": [
               "bioinformatics",
               "conda",
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:03:05.092Z",
+    "last_updated": "2026-10-03T04:35:04.658Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated (meta)list of resources for Biology.",
