@@ -179,7 +179,7 @@
             "id": 110871367,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-22T21:00:31Z",
+            "last_commit": "2026-10-03T15:10:53Z",
             "open_issues": 27,
             "owner": "leipzig",
             "repo": "awesome-reproducible-research",
@@ -538,8 +538,8 @@
             "id": 42372094,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-03T09:11:09Z",
-            "open_issues": 1398,
+            "last_commit": "2026-10-04T10:32:15Z",
+            "open_issues": 1365,
             "owner": "bioconda",
             "repo": "bioconda-recipes",
             "stars": 1876,
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T10:21:24.820Z",
+    "last_updated": "2026-10-04T11:04:14.588Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated (meta)list of resources for Biology.",

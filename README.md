@@ -53,7 +53,7 @@ For a list of review research articles, see [awesome-reviews](awesome-reviews.md
 * [Awesome-Computational-Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience) ⭐ 1,005 | 🐛 7 | 📅 2024-08-02
 * [Awesome Multi-Omics](https://github.com/mikelove/awesome-multi-omics) ⭐ 946 | 🐛 1 | 📅 2026-08-04
 * [Awesome Nextflow](https://github.com/nextflow-io/awesome-nextflow) ⭐ 634 | 🐛 2 | 📅 2025-06-23
-* [Awesome Reproducible Research](https://github.com/leipzig/awesome-reproducible-research) ⭐ 406 | 🐛 27 | 🌐 Python | 📅 2026-09-22
+* [Awesome Reproducible Research](https://github.com/leipzig/awesome-reproducible-research) ⭐ 406 | 🐛 27 | 🌐 Python | 📅 2026-10-03
 * [Awesome Cancer Variant Databases](https://github.com/seandavi/awesome-cancer-variant-databases) ⭐ 340 | 🐛 1 | 📅 2026-05-18
 * [Awesome Synthetic Biology](https://github.com/websemantics/awesome-synthetic-biology) ⭐ 223 | 🐛 2 | 📅 2022-12-15
 * [Awesome Biological Image Analysis](https://github.com/hallvaaw/awesome-biological-image-analysis) ⭐ 195 | 🐛 0 | 📅 2026-09-01
@@ -298,7 +298,7 @@ Other awesome lists without the *awesome* branding.
 ## Tools
 
 * [ResearchKit](https://github.com/ResearchKit/ResearchKit) ⭐ 5,749 | 🐛 150 | 🌐 Objective-C | 📅 2026-09-23, Framework to create apps for medical research
-* [bioconda-recipes](https://github.com/bioconda/bioconda-recipes) ⭐ 1,876 | 🐛 1,398 | 🌐 Shell | 📅 2026-10-03, Conda recipes to install bioinformatics software
+* [bioconda-recipes](https://github.com/bioconda/bioconda-recipes) ⭐ 1,876 | 🐛 1,365 | 🌐 Shell | 📅 2026-10-04, Conda recipes to install bioinformatics software
 * [PDBREMIX](https://github.com/boscoh/pdbremix) ⭐ 61 | 🐛 4 | 🌐 Python | 📅 2018-02-26, Library to analyze protein structures and protein simulations
 * [OMICS Tools](https://omictools.com/), A huge collection of tools
 * [scikit-bio](http://scikit-bio.org), in development Python library for bioinformatics
@@ -353,4 +353,4 @@ Other awesome lists without the *awesome* branding.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
