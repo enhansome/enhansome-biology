@@ -16,10 +16,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-27T21:38:10Z",
-            "open_issues": 44,
+            "open_issues": 43,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4305,
+            "stars": 4306,
             "topics": [
               "awesome",
               "awesome-list",
@@ -85,7 +85,7 @@
             "open_issues": 6,
             "owner": "gokceneraslan",
             "repo": "awesome-deepbio",
-            "stars": 1992,
+            "stars": 1991,
             "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
@@ -180,7 +180,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-10-03T15:10:53Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "leipzig",
             "repo": "awesome-reproducible-research",
             "stars": 405,
@@ -395,7 +395,7 @@
             "open_issues": 6,
             "owner": "gokceneraslan",
             "repo": "awesome-deepbio",
-            "stars": 1992,
+            "stars": 1991,
             "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
@@ -466,10 +466,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-27T21:38:10Z",
-            "open_issues": 44,
+            "open_issues": 43,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4305,
+            "stars": 4306,
             "topics": [
               "awesome",
               "awesome-list",
@@ -538,8 +538,8 @@
             "id": 42372094,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-07T11:16:02Z",
-            "open_issues": 1323,
+            "last_commit": "2026-10-08T11:44:55Z",
+            "open_issues": 1345,
             "owner": "bioconda",
             "repo": "bioconda-recipes",
             "stars": 1877,
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T11:43:27.288Z",
+    "last_updated": "2026-10-08T11:58:14.219Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated (meta)list of resources for Biology.",
