@@ -298,7 +298,7 @@ Other awesome lists without the *awesome* branding.
 ## Tools
 
 * [ResearchKit](https://github.com/ResearchKit/ResearchKit) ⭐ 5,751 | 🐛 151 | 🌐 Objective-C | 📅 2026-09-23, Framework to create apps for medical research
-* [bioconda-recipes](https://github.com/bioconda/bioconda-recipes) ⭐ 1,880 | 🐛 1,424 | 🌐 Shell | 📅 2026-10-22, Conda recipes to install bioinformatics software
+* [bioconda-recipes](https://github.com/bioconda/bioconda-recipes) ⭐ 1,880 | 🐛 1,416 | 🌐 Shell | 📅 2026-10-23, Conda recipes to install bioinformatics software
 * [PDBREMIX](https://github.com/boscoh/pdbremix) ⭐ 61 | 🐛 4 | 🌐 Python | 📅 2018-02-26, Library to analyze protein structures and protein simulations
 * [OMICS Tools](https://omictools.com/), A huge collection of tools
 * [scikit-bio](http://scikit-bio.org), in development Python library for bioinformatics
@@ -353,4 +353,4 @@ Other awesome lists without the *awesome* branding.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
