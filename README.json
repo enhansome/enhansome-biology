@@ -16,10 +16,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-27T21:38:10Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4333,
+            "stars": 4337,
             "topics": [
               "awesome",
               "awesome-list",
@@ -40,7 +40,7 @@
             "id": 62237945,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-21T21:50:03Z",
+            "last_commit": "2026-10-27T10:05:10Z",
             "open_issues": 8,
             "owner": "seandavi",
             "repo": "awesome-single-cell",
@@ -85,7 +85,7 @@
             "open_issues": 6,
             "owner": "gokceneraslan",
             "repo": "awesome-deepbio",
-            "stars": 1993,
+            "stars": 1994,
             "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
@@ -103,10 +103,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-08-02T18:19:50Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "eselkin",
             "repo": "awesome-computational-neuroscience",
-            "stars": 1004,
+            "stars": 1006,
             "topics": [
               "awesome",
               "awesome-list",
@@ -134,7 +134,7 @@
             "id": 144076744,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-08-04T18:01:58Z",
+            "last_commit": "2026-10-26T20:18:31Z",
             "open_issues": 1,
             "owner": "mikelove",
             "repo": "awesome-multi-omics",
@@ -180,7 +180,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-10-26T04:08:02Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "leipzig",
             "repo": "awesome-reproducible-research",
             "stars": 407,
@@ -333,10 +333,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-08-02T18:19:50Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "eselkin",
             "repo": "awesome-computational-neuroscience",
-            "stars": 1004,
+            "stars": 1006,
             "topics": [
               "awesome",
               "awesome-list",
@@ -374,7 +374,7 @@
             "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2162,
+            "stars": 2164,
             "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
@@ -395,7 +395,7 @@
             "open_issues": 6,
             "owner": "gokceneraslan",
             "repo": "awesome-deepbio",
-            "stars": 1993,
+            "stars": 1994,
             "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
@@ -466,10 +466,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-27T21:38:10Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4333,
+            "stars": 4337,
             "topics": [
               "awesome",
               "awesome-list",
@@ -521,7 +521,7 @@
             "open_issues": 151,
             "owner": "ResearchKit",
             "repo": "ResearchKit",
-            "stars": 5752,
+            "stars": 5754,
             "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
@@ -538,8 +538,8 @@
             "id": 42372094,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-26T10:40:52Z",
-            "open_issues": 1424,
+            "last_commit": "2026-10-27T10:15:49Z",
+            "open_issues": 1434,
             "owner": "bioconda",
             "repo": "bioconda-recipes",
             "stars": 1881,
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T10:59:39.671Z",
+    "last_updated": "2026-10-27T10:27:09.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated (meta)list of resources for Biology.",
