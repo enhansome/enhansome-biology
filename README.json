@@ -16,10 +16,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-27T21:38:10Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4337,
+            "stars": 4338,
             "topics": [
               "awesome",
               "awesome-list",
@@ -44,7 +44,7 @@
             "open_issues": 8,
             "owner": "seandavi",
             "repo": "awesome-single-cell",
-            "stars": 3884,
+            "stars": 3885,
             "topics": [
               "analysis-pipeline",
               "atac-seq",
@@ -180,7 +180,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-10-26T04:08:02Z",
-            "open_issues": 32,
+            "open_issues": 33,
             "owner": "leipzig",
             "repo": "awesome-reproducible-research",
             "stars": 407,
@@ -466,10 +466,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-27T21:38:10Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4337,
+            "stars": 4338,
             "topics": [
               "awesome",
               "awesome-list",
@@ -538,8 +538,8 @@
             "id": 42372094,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-27T10:15:49Z",
-            "open_issues": 1434,
+            "last_commit": "2026-10-28T11:14:16Z",
+            "open_issues": 1339,
             "owner": "bioconda",
             "repo": "bioconda-recipes",
             "stars": 1881,
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T10:27:09.937Z",
+    "last_updated": "2026-10-28T11:16:07.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated (meta)list of resources for Biology.",
