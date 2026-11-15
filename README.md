@@ -47,10 +47,10 @@ For a list of review research articles, see [awesome-reviews](awesome-reviews.md
 
 ## Awesome
 
-* [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,365 | 🐛 58 | 📅 2026-09-27
-* [Awesome Single-Cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,893 | 🐛 8 | 📅 2026-11-13
-* [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio) ⭐ 1,998 | 🐛 6 | 📅 2021-11-07
-* [Awesome-Computational-Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience) ⭐ 1,008 | 🐛 8 | 📅 2024-08-02
+* [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,367 | 🐛 59 | 📅 2026-09-27
+* [Awesome Single-Cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,893 | 🐛 8 | 📅 2026-11-15
+* [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio) ⭐ 1,999 | 🐛 6 | 📅 2021-11-07
+* [Awesome-Computational-Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience) ⭐ 1,009 | 🐛 8 | 📅 2024-08-02
 * [Awesome Multi-Omics](https://github.com/mikelove/awesome-multi-omics) ⭐ 952 | 🐛 1 | 📅 2026-10-26
 * [Awesome Nextflow](https://github.com/nextflow-io/awesome-nextflow) ⭐ 637 | 🐛 2 | 📅 2025-06-23
 * [Awesome Reproducible Research](https://github.com/leipzig/awesome-reproducible-research) ⭐ 414 | 🐛 31 | 🌐 Python | 📅 2026-11-13
@@ -162,7 +162,7 @@ Other awesome lists without the *awesome* branding.
 
 ## Neuroscience
 
-* **LIST**: [Awesome-Computational-Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience) ⭐ 1,008 | 🐛 8 | 📅 2024-08-02
+* **LIST**: [Awesome-Computational-Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience) ⭐ 1,009 | 🐛 8 | 📅 2024-08-02
 * [Principles of Neural Science by *Kandel* and *Schwartz*](http://www.principlesofneuralscience.com)
 * [Theoretical Neuroscience by *Dayan* and *Abbott*](https://mitpress.mit.edu/books/theoretical-neuroscience)
 
@@ -221,14 +221,14 @@ Other awesome lists without the *awesome* branding.
 
 ## Deep Learning
 
-* List: [Deep Learning in Biology](https://github.com/hussius/deeplearning-biology) ⭐ 2,166 | 🐛 0 | 📅 2026-09-12
-* **List**: [Deep Learning Applications in Computational Biology](https://github.com/gokceneraslan/awesome-deepbio) ⭐ 1,998 | 🐛 6 | 📅 2021-11-07
+* List: [Deep Learning in Biology](https://github.com/hussius/deeplearning-biology) ⭐ 2,167 | 🐛 0 | 📅 2026-09-12
+* **List**: [Deep Learning Applications in Computational Biology](https://github.com/gokceneraslan/awesome-deepbio) ⭐ 1,999 | 🐛 6 | 📅 2021-11-07
 * List: [Deep Learning in Computational Biology](https://github.com/pimentel/deep_learning_papers) ⭐ 189 | 🐛 0 | 📅 2016-02-13
 * List: [Deep Learning in Neuronal Image Analysis](https://github.com/alxndrkalinin/awesome-deepneuroimage) ⭐ 155 | 🐛 0 | 📅 2018-04-30
 
 ## Bioinformatics
 
-* **List**: [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,365 | 🐛 58 | 📅 2026-09-27
+* **List**: [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,367 | 🐛 59 | 📅 2026-09-27
 * **List**: [Curated list of papers for Computational Genomics](https://github.com/jtleek/genomicspapers) ⭐ 504 | 🐛 3 | 📅 2018-11-05
 * [Practical Computing for Biologists by *Steven Haddock* and *Casey Dunn*](http://practicalcomputing.org/)
 * [An Introduction to Bioinformatics Algorithms by *Pavel Pevzner*](https://mitpress.mit.edu/books/introduction-bioinformatics-algorithms)
@@ -297,8 +297,8 @@ Other awesome lists without the *awesome* branding.
 
 ## Tools
 
-* [ResearchKit](https://github.com/ResearchKit/ResearchKit) ⭐ 5,756 | 🐛 151 | 🌐 Objective-C | 📅 2026-09-23, Framework to create apps for medical research
-* [bioconda-recipes](https://github.com/bioconda/bioconda-recipes) ⭐ 1,884 | 🐛 1,462 | 🌐 Shell | 📅 2026-11-14, Conda recipes to install bioinformatics software
+* [ResearchKit](https://github.com/ResearchKit/ResearchKit) ⭐ 5,757 | 🐛 151 | 🌐 Objective-C | 📅 2026-09-23, Framework to create apps for medical research
+* [bioconda-recipes](https://github.com/bioconda/bioconda-recipes) ⭐ 1,885 | 🐛 1,465 | 🌐 Shell | 📅 2026-11-15, Conda recipes to install bioinformatics software
 * [PDBREMIX](https://github.com/boscoh/pdbremix) ⭐ 61 | 🐛 4 | 🌐 Python | 📅 2018-02-26, Library to analyze protein structures and protein simulations
 * [OMICS Tools](https://omictools.com/), A huge collection of tools
 * [scikit-bio](http://scikit-bio.org), in development Python library for bioinformatics
@@ -353,4 +353,4 @@ Other awesome lists without the *awesome* branding.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
