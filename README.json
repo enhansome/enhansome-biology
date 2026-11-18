@@ -16,10 +16,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-27T21:38:10Z",
-            "open_issues": 60,
+            "open_issues": 61,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4370,
+            "stars": 4371,
             "topics": [
               "awesome",
               "awesome-list",
@@ -106,7 +106,7 @@
             "open_issues": 8,
             "owner": "eselkin",
             "repo": "awesome-computational-neuroscience",
-            "stars": 1012,
+            "stars": 1013,
             "topics": [
               "awesome",
               "awesome-list",
@@ -212,7 +212,7 @@
             "open_issues": 2,
             "owner": "seandavi",
             "repo": "awesome-cancer-variant-resources",
-            "stars": 340,
+            "stars": 341,
             "topics": [
               "awesome-list",
               "bioinformatics",
@@ -336,7 +336,7 @@
             "open_issues": 8,
             "owner": "eselkin",
             "repo": "awesome-computational-neuroscience",
-            "stars": 1012,
+            "stars": 1013,
             "topics": [
               "awesome",
               "awesome-list",
@@ -466,10 +466,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-27T21:38:10Z",
-            "open_issues": 60,
+            "open_issues": 61,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4370,
+            "stars": 4371,
             "topics": [
               "awesome",
               "awesome-list",
@@ -518,10 +518,10 @@
             "language": "Objective-C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-23T18:32:51Z",
-            "open_issues": 151,
+            "open_issues": 152,
             "owner": "ResearchKit",
             "repo": "ResearchKit",
-            "stars": 5757,
+            "stars": 5758,
             "topics": []
           },
           "first_seen": "2026-08-28T17:23:06.394Z"
@@ -538,7 +538,7 @@
             "id": 42372094,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-17T13:56:17Z",
+            "last_commit": "2026-11-18T13:33:43Z",
             "open_issues": 1478,
             "owner": "bioconda",
             "repo": "bioconda-recipes",
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T14:17:42.877Z",
+    "last_updated": "2026-11-18T13:51:34.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated (meta)list of resources for Biology.",
@@ -590,7 +590,7 @@
       "open_issues": 5,
       "owner": "raivivek",
       "repo": "awesome-biology",
-      "stars": 461,
+      "stars": 462,
       "topics": [
         "awesome-list",
         "bioinformatics",
