@@ -50,11 +50,11 @@ For a list of review research articles, see [awesome-reviews](awesome-reviews.md
 * [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,371 | 🐛 61 | 📅 2026-09-27
 * [Awesome Single-Cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,894 | 🐛 8 | 📅 2026-11-15
 * [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio) ⭐ 1,998 | 🐛 6 | 📅 2021-11-07
-* [Awesome-Computational-Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience) ⭐ 1,013 | 🐛 8 | 📅 2024-08-02
+* [Awesome-Computational-Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience) ⭐ 1,014 | 🐛 8 | 📅 2024-08-02
 * [Awesome Multi-Omics](https://github.com/mikelove/awesome-multi-omics) ⭐ 952 | 🐛 1 | 📅 2026-10-26
 * [Awesome Nextflow](https://github.com/nextflow-io/awesome-nextflow) ⭐ 637 | 🐛 2 | 📅 2025-06-23
-* [Awesome Reproducible Research](https://github.com/leipzig/awesome-reproducible-research) ⭐ 414 | 🐛 31 | 🌐 Python | 📅 2026-11-13
-* [Awesome Cancer Variant Databases](https://github.com/seandavi/awesome-cancer-variant-databases) ⭐ 341 | 🐛 2 | 📅 2026-10-24
+* [Awesome Reproducible Research](https://github.com/leipzig/awesome-reproducible-research) ⭐ 415 | 🐛 31 | 🌐 Python | 📅 2026-11-13
+* [Awesome Cancer Variant Databases](https://github.com/seandavi/awesome-cancer-variant-databases) ⭐ 342 | 🐛 2 | 📅 2026-10-24
 * [Awesome Synthetic Biology](https://github.com/websemantics/awesome-synthetic-biology) ⭐ 226 | 🐛 4 | 📅 2022-12-15
 * [Awesome Biological Image Analysis](https://github.com/hallvaaw/awesome-biological-image-analysis) ⭐ 201 | 🐛 2 | 📅 2026-09-01
 
@@ -162,7 +162,7 @@ Other awesome lists without the *awesome* branding.
 
 ## Neuroscience
 
-* **LIST**: [Awesome-Computational-Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience) ⭐ 1,013 | 🐛 8 | 📅 2024-08-02
+* **LIST**: [Awesome-Computational-Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience) ⭐ 1,014 | 🐛 8 | 📅 2024-08-02
 * [Principles of Neural Science by *Kandel* and *Schwartz*](http://www.principlesofneuralscience.com)
 * [Theoretical Neuroscience by *Dayan* and *Abbott*](https://mitpress.mit.edu/books/theoretical-neuroscience)
 
@@ -298,7 +298,7 @@ Other awesome lists without the *awesome* branding.
 ## Tools
 
 * [ResearchKit](https://github.com/ResearchKit/ResearchKit) ⭐ 5,758 | 🐛 152 | 🌐 Objective-C | 📅 2026-09-23, Framework to create apps for medical research
-* [bioconda-recipes](https://github.com/bioconda/bioconda-recipes) ⭐ 1,886 | 🐛 1,478 | 🌐 Shell | 📅 2026-11-18, Conda recipes to install bioinformatics software
+* [bioconda-recipes](https://github.com/bioconda/bioconda-recipes) ⭐ 1,886 | 🐛 1,415 | 🌐 Shell | 📅 2026-11-19, Conda recipes to install bioinformatics software
 * [PDBREMIX](https://github.com/boscoh/pdbremix) ⭐ 61 | 🐛 4 | 🌐 Python | 📅 2018-02-26, Library to analyze protein structures and protein simulations
 * [OMICS Tools](https://omictools.com/), A huge collection of tools
 * [scikit-bio](http://scikit-bio.org), in development Python library for bioinformatics
@@ -353,4 +353,4 @@ Other awesome lists without the *awesome* branding.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

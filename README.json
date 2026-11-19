@@ -106,7 +106,7 @@
             "open_issues": 8,
             "owner": "eselkin",
             "repo": "awesome-computational-neuroscience",
-            "stars": 1013,
+            "stars": 1014,
             "topics": [
               "awesome",
               "awesome-list",
@@ -183,7 +183,7 @@
             "open_issues": 31,
             "owner": "leipzig",
             "repo": "awesome-reproducible-research",
-            "stars": 414,
+            "stars": 415,
             "topics": [
               "awesome",
               "awesome-list",
@@ -212,7 +212,7 @@
             "open_issues": 2,
             "owner": "seandavi",
             "repo": "awesome-cancer-variant-resources",
-            "stars": 341,
+            "stars": 342,
             "topics": [
               "awesome-list",
               "bioinformatics",
@@ -336,7 +336,7 @@
             "open_issues": 8,
             "owner": "eselkin",
             "repo": "awesome-computational-neuroscience",
-            "stars": 1013,
+            "stars": 1014,
             "topics": [
               "awesome",
               "awesome-list",
@@ -538,8 +538,8 @@
             "id": 42372094,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-18T13:33:43Z",
-            "open_issues": 1478,
+            "last_commit": "2026-11-19T13:54:20Z",
+            "open_issues": 1415,
             "owner": "bioconda",
             "repo": "bioconda-recipes",
             "stars": 1886,
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T13:51:34.425Z",
+    "last_updated": "2026-11-19T14:20:04.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated (meta)list of resources for Biology.",
