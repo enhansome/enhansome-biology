@@ -47,11 +47,11 @@ For a list of review research articles, see [awesome-reviews](awesome-reviews.md
 
 ## Awesome
 
-* [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,380 | 🐛 63 | 📅 2026-09-27
-* [Awesome Single-Cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,896 | 🐛 8 | 📅 2026-11-23
-* [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio) ⭐ 1,996 | 🐛 6 | 📅 2021-11-07
+* [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,381 | 🐛 63 | 📅 2026-09-27
+* [Awesome Single-Cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,897 | 🐛 8 | 📅 2026-11-23
+* [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio) ⭐ 1,995 | 🐛 6 | 📅 2021-11-07
 * [Awesome-Computational-Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience) ⭐ 1,016 | 🐛 8 | 📅 2024-08-02
-* [Awesome Multi-Omics](https://github.com/mikelove/awesome-multi-omics) ⭐ 952 | 🐛 1 | 📅 2026-11-22
+* [Awesome Multi-Omics](https://github.com/mikelove/awesome-multi-omics) ⭐ 953 | 🐛 1 | 📅 2026-11-22
 * [Awesome Nextflow](https://github.com/nextflow-io/awesome-nextflow) ⭐ 636 | 🐛 2 | 📅 2025-06-23
 * [Awesome Reproducible Research](https://github.com/leipzig/awesome-reproducible-research) ⭐ 415 | 🐛 35 | 🌐 Python | 📅 2026-11-13
 * [Awesome Cancer Variant Databases](https://github.com/seandavi/awesome-cancer-variant-databases) ⭐ 344 | 🐛 2 | 📅 2026-10-24
@@ -222,13 +222,13 @@ Other awesome lists without the *awesome* branding.
 ## Deep Learning
 
 * List: [Deep Learning in Biology](https://github.com/hussius/deeplearning-biology) ⭐ 2,168 | 🐛 0 | 📅 2026-11-22
-* **List**: [Deep Learning Applications in Computational Biology](https://github.com/gokceneraslan/awesome-deepbio) ⭐ 1,996 | 🐛 6 | 📅 2021-11-07
+* **List**: [Deep Learning Applications in Computational Biology](https://github.com/gokceneraslan/awesome-deepbio) ⭐ 1,995 | 🐛 6 | 📅 2021-11-07
 * List: [Deep Learning in Computational Biology](https://github.com/pimentel/deep_learning_papers) ⭐ 189 | 🐛 0 | 📅 2016-02-13
 * List: [Deep Learning in Neuronal Image Analysis](https://github.com/alxndrkalinin/awesome-deepneuroimage) ⭐ 155 | 🐛 0 | 📅 2018-04-30
 
 ## Bioinformatics
 
-* **List**: [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,380 | 🐛 63 | 📅 2026-09-27
+* **List**: [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,381 | 🐛 63 | 📅 2026-09-27
 * **List**: [Curated list of papers for Computational Genomics](https://github.com/jtleek/genomicspapers) ⭐ 504 | 🐛 3 | 📅 2018-11-05
 * [Practical Computing for Biologists by *Steven Haddock* and *Casey Dunn*](http://practicalcomputing.org/)
 * [An Introduction to Bioinformatics Algorithms by *Pavel Pevzner*](https://mitpress.mit.edu/books/introduction-bioinformatics-algorithms)
@@ -297,8 +297,8 @@ Other awesome lists without the *awesome* branding.
 
 ## Tools
 
-* [ResearchKit](https://github.com/ResearchKit/ResearchKit) ⭐ 5,759 | 🐛 156 | 🌐 Objective-C | 📅 2026-09-23, Framework to create apps for medical research
-* [bioconda-recipes](https://github.com/bioconda/bioconda-recipes) ⭐ 1,885 | 🐛 1,397 | 🌐 Shell | 📅 2026-11-26, Conda recipes to install bioinformatics software
+* [ResearchKit](https://github.com/ResearchKit/ResearchKit) ⭐ 5,758 | 🐛 156 | 🌐 Objective-C | 📅 2026-09-23, Framework to create apps for medical research
+* [bioconda-recipes](https://github.com/bioconda/bioconda-recipes) ⭐ 1,885 | 🐛 1,418 | 🌐 Shell | 📅 2026-11-27, Conda recipes to install bioinformatics software
 * [PDBREMIX](https://github.com/boscoh/pdbremix) ⭐ 61 | 🐛 4 | 🌐 Python | 📅 2018-02-26, Library to analyze protein structures and protein simulations
 * [OMICS Tools](https://omictools.com/), A huge collection of tools
 * [scikit-bio](http://scikit-bio.org), in development Python library for bioinformatics
@@ -353,4 +353,4 @@ Other awesome lists without the *awesome* branding.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
